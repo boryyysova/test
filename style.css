@@ -1,0 +1,6 @@
+.contaner{
+    display: grid;
+    grid-column: 500px 500px;
+    grid-row: 200px 200px 500px 50px 50px;
+    outline: 1px solid black;
+}
